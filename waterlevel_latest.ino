@@ -24,6 +24,7 @@ void setup() {
 }
 
 void loop() {
+//   ---- just testing ---
 // Serial.println("level 1");
 // Serial.println(analogRead(first_level));
 // delay(1000);
